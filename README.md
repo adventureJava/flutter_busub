@@ -11,7 +11,7 @@
 
 
 ![image](https://github.com/user-attachments/assets/83af54a6-1315-4b18-ad81-27c8f9f62823)
-
+<img src="github.com/user-attachments/assets/83af54a6-1315-4b18-ad81-27c8f9f62823.png  width="200" height="400"/>
 처음 앱을 실행하면 20만여개의 공공데이터 csv파일을 station테이블에 저장합니다. 데이터를 삽입하는 동안 로딩 화면이 나옵니다.
 
 
@@ -44,6 +44,7 @@
 
 ![image](https://github.com/user-attachments/assets/bb0acd20-8056-495d-8b4c-de0e6d4d44b0)
 ![image](https://github.com/user-attachments/assets/4e976995-8d96-451d-8df1-d6fa3fe74f2f)
+
 안드로이드용으로 apk제작까지 완료되었습니다. 아이콘 이미지는 자체제작이 아닌 무단 사용하였기 때문에 상용화할 계획은 없습니다.
 
 
