@@ -11,6 +11,7 @@
 
 
 ![image](https://github.com/user-attachments/assets/83af54a6-1315-4b18-ad81-27c8f9f62823)
+
 처음 앱을 실행하면 20만여개의 공공데이터 csv파일을 station테이블에 저장합니다. 데이터를 삽입하는 동안 로딩 화면이 나옵니다.
 
 
