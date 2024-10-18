@@ -1,13 +1,13 @@
 버스 실시간 운행 정보 앱 BUSUB 
 
 1.개요 : 버스 실시간 운행정보를 알려주는 앱입니다.<br>
-2.제작 기간 : 10/12,14,15 3일 제작<br>
+2.제작 기간 : 10/12,14,15 총 3일 <br>
             10/16 배포<br>
 3.인원 : 1인<br><br>
 
 
-4.개발환경 : Flutter, SQLite, <br>
-      라이브러리 : 구글맵 API, 공공데이터 API<br><br>
+4.개발환경 : Flutter, SQLite <br>
+  라이브러리 : 구글맵 API, 공공데이터 API(정류장csv파일, 정류장별 실시간 도착정보, 정류장+노선별 실시간 도착정보)<br><br>
 
 5.구현 화면<br>
 ![image](https://github.com/user-attachments/assets/83af54a6-1315-4b18-ad81-27c8f9f62823)
