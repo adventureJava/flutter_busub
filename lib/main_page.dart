@@ -40,7 +40,7 @@ class _MainPageState extends State<MainPage> {
   }
 
   Future<void> _fetchBusArrivalInfo(int id, String stationNo, int cityCode, String routeId) async {
-    final String serviceKey = 'qa4QRi0MmBCIBfPxyzq5SC/KVh2OlJAhW/9u4mzHNTWaLQOMB1w2sOQ4GkW8vb79qw9KroDUnPJDoE11pyOK0Q==';
+    final String serviceKey = ''; //api 디코딩키로 해야 작동함 
     final String url =
         'http://apis.data.go.kr/1613000/ArvlInfoInqireService/getSttnAcctoSpcifyRouteBusArvlPrearngeInfoList';
     final Map<String, String> queryParams = {
