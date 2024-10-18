@@ -105,7 +105,7 @@ class _MapPageState extends State<MapPage> {
   Future<void> _fetchArrivalInfo(Map<String, dynamic> station) async {
     String cityCode = station['city_code'];
     String stationNo = station['station_no'];
-    String serviceKey = 'qa4QRi0MmBCIBfPxyzq5SC%2FKVh2OlJAhW%2F9u4mzHNTWaLQOMB1w2sOQ4GkW8vb79qw9KroDUnPJDoE11pyOK0Q%3D%3D'; // 실제 서비스 키로 대체하세요.
+    String serviceKey = ''; // 실제 서비스 키로 대체.
 
     var url = 'http://apis.data.go.kr/1613000/ArvlInfoInqireService/getSttnAcctoArvlPrearngeInfoList';
     var queryParams = '?serviceKey=$serviceKey&pageNo=1&numOfRows=10&_type=json&cityCode=$cityCode&nodeId=$stationNo';
